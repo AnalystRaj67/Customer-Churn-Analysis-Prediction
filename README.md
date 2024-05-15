@@ -1,8 +1,8 @@
-Customer Churn Analysis
+Customer Churn Analysis:
 This project aims to analyze customer churn using machine learning techniques. Customer churn, also known as customer attrition, occurs when customers stop doing business with a company.
 By identifying patterns in customer data, we can predict which customers are likely to churn and take proactive measures to retain them.
 
-Tools Used
+Tools Used:
 Python
 Pandas
 NumPy
